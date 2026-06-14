@@ -70,7 +70,8 @@ Eaglertron is an independent community project and is not affiliated with Mojang
 
 <hr>
 credits to Ivr77 *
+### Stay Updated
 
-subscribe on my youtube channel for more info
+Subscribe to my YouTube channel for more information, updates, development news, and future releases of Eaglertron!
 
-
+Thank you for supporting the project.
