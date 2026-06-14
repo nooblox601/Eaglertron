@@ -1,4 +1,4 @@
-# <img src=".github/assets/logo.png" alt="EaglerTron logo" align="right" width="150px"> EaglerTron v1.5.00
+# <img src=".github/assets/icon (2).png" alt="EaglerTron logo" align="right" width="150px"> EaglerTron v1.5.00
  A minecraft themed launcher for Eaglercraft!<br>
  Containing some of the best clients all in one place!
 
