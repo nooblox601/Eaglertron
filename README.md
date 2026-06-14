@@ -45,7 +45,7 @@
 </details>
 
 <hr>
-* credits to Ivr77
+*credits to Ivr77
 
 subscribe on my youtube channel for more info
 
