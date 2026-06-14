@@ -1,7 +1,31 @@
 # <img src=".github/assets/icon (2).png" alt="EaglerTron logo" align="right" width="150px"> EaglerTron v1.5.00
  <img src=".github/assets/file.png" alt="EaglerTron logo" align="right" width="300px">
- Best Minecraft Launcher Every Maked!
-EaglerTron is an Minecraft for free maked for the gamers have no cash to buy Minecraft. Eaglercraft is open-source too you can make our Minecraft you do not need credit me too! 
+
+# Eaglertron
+
+Eaglertron is a free and open-source desktop launcher for Eaglercraft.
+
+It is designed for gamers who cannot afford Minecraft or who want a lightweight alternative experience. Built with Electron, Eaglertron aims to provide a simple way to play Eaglercraft on desktop devices.
+
+## Features
+
+* Free to use
+* Open-source
+* Desktop application
+* Lightweight interface
+* Based on Eaglercraft
+
+## About Eaglercraft
+
+Eaglercraft is an open-source project. Please respect its original license and contributors.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the project, improve it, and create your own versions.
+
+## Disclaimer
+
+Eaglertron is an independent community project and is not affiliated with Mojang Studios or Microsoft.
 
 
 <img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
