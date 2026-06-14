@@ -45,8 +45,8 @@
 </details>
 
 <hr>
-*credits to Ivr77
+credits to Ivr77 *
 
 subscribe on my youtube channel for more info
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__88888888888888888888888888888
+>__Finally [here]() is the live version of the code!__88888888888888888888888888888
