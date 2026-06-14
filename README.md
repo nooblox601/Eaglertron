@@ -1,7 +1,6 @@
 # <img src=".github/assets/icon (2).png" alt="EaglerTron logo" align="right" width="150px"> EaglerTron v1.5.00
  <img src=".github/assets/file.png" alt="EaglerTron logo" align="right" width="300px">
 
-# Eaglertron
 
 Eaglertron is a free and open-source desktop launcher for Eaglercraft.
 
