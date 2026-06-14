@@ -34,7 +34,7 @@
 - [x] Rewrite some of the css and js
 - [x] Organize code, and add comments
 - [x] Add a customizable launcher selector
-- [x] Save last played game
+- [x] Save last played game 
 - [x] Add FAQ screen
 - [x] Add Installations screen
 - [x] Add Mods screen
@@ -45,5 +45,8 @@
 </details>
 
 <hr>
+* credits to Ivr77
+
+subscribe on my youtube channel for more info
 
 >__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__88888888888888888888888888888
