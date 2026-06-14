@@ -1,8 +1,7 @@
 # <img src=".github/assets/icon (2).png" alt="EaglerTron logo" align="right" width="150px"> EaglerTron v1.5.00
- A minecraft themed launcher for Eaglercraft!<br>
- Containing some of the best clients all in one place!
- # <img src=".github/assets/file.png" alt="EaglerTron logo" align="right" width="300px"> EaglerTron v1.5.00
-
+ <img src=".github/assets/file.png" alt="EaglerTron logo" align="right" width="300px">
+ Best Minecraft Launcher Every Maked!
+EaglerTron is an Minecraft for free maked for the gamers have no cash to buy Minecraft Eaglercraft is open-source too you can make our Minecraft you do not need credit me too! 
 
 
 <img src=".github/assets/launcher.png" alt="Launcher Photo"><br>
